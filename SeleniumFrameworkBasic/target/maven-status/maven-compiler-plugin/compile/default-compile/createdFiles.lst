@@ -1,0 +1,3 @@
+com\qa\libs\lib_Common.class
+com\qa\pages\pg_GoogleHome.class
+com\qa\testBase\TestBase.class
